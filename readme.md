@@ -36,7 +36,7 @@ Tìm hiểu về Laravel.
 Tiến hành phân chia công việc cụ thể (làm đến đâu push lên đến đó, sai ở đâu sẽ cùng nhau tìm hiểu và giải quyết).
 Tiến hành bàn bạc và hoàn thành báo cáo bằng file Word.
 III. Hướng dẫn chạy chương trình
-1. Cài đặt comporser.exe
+ 1. Cài đặt comporser.exe
 Đầu tiên các bạn lên trang chủ getcomposer.org và download file composer_setup.exe về.
 Sau đó mở file lên và cài đặt theo link sau: https://hocwebchuan.com/tutorial/laravel/install_composer.php
 CHÚ Ý: sau khi hoàn tất cài đặt, chạy câu lệnh composer require bumbummen99/shoppingcart tại git bash để có thể thực hiện các tính năng trong giỏ hàng.
@@ -48,7 +48,7 @@ PDO PHP Extension
 Mbstring PHP Extension
 Tokenizer PHP Extension
 XML PHP Extension
-b. cài laravel bằng comporser.exe
+ b. cài laravel bằng comporser.exe
 sử dụng command line để di chuyển đến thư mục cần tạo project laravel (của mình cài xammp lên mình sẽ cho trỏ đến htdocs) hoặc các bạn có thể vào thư mục muốn tạo project rồi ấn shift + chuột phải --> open command windows here
 Sau đó gõ lệnh composer create-project laravel/laravel lar-53 --prefer-dist. Ở đây lar-53 là thư mục chứa laravel các bạn có thể tùy chỉnh thành thư mục của mình.
 c. Khởi chạy Laravel.
