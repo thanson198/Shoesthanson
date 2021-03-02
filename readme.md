@@ -6,11 +6,8 @@
 - Họ tên: Thân Văn Sơn
 - MSSV: 18100251
 - Email: thanson198@gmail.com
-
 ### Demo
-
 http://shoesthanson.herokuapp.com/
-
 I. Mục tiêu và kết quả đạt được
 1. Mục tiêu
 Hoàn thành dự án thi cuối kì đạt kết quả tốt nhất.
