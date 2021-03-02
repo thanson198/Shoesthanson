@@ -8,13 +8,13 @@
 - Email: thanson198@gmail.com
 ### Demo
 http://shoesthanson.herokuapp.com/
-I. Mục tiêu và kết quả đạt được
-1. Mục tiêu
-Hoàn thành dự án thi cuối kì đạt kết quả tốt nhất.
-Nâng cao khả năng teamwork.
-Nâng cao khả năng lập trình phát triển web.
-2. Về giao diện
-Màu sắc chủ đạo của website phải hài hòa, dễ nhìn.
+ I. Mục tiêu và kết quả đạt được
+ 1. Mục tiêu
+ Hoàn thành dự án thi cuối kì đạt kết quả tốt nhất.
+ Nâng cao khả năng teamwork.
+ Nâng cao khả năng lập trình phát triển web.
+ 2. Về giao diện
+ Màu sắc chủ đạo của website phải hài hòa, dễ nhìn.
 Các quảng cáo và menu có kích cỡ phù hợp, cân đối.
 Cách thức thêm sản phẩm vào giỏ, đặt hàng,.... trên website phải được sắp xếp khoa học và dễ dàng sử dụng.
 Hình ảnh của sản phẩm cần rõ ràng, thông tin cơ bản đầy đủ.
